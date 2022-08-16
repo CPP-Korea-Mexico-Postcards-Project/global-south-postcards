@@ -1,6 +1,7 @@
 field,display_name,browse_link
 title,Title,
 date,Date Created,
+date_created, Date Range,
 description,Description,
 subject,Subjects,true
 item_information,Item information
