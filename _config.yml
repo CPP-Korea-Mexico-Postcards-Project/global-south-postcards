@@ -18,9 +18,9 @@ source-code: https://github.com/evanwill/cb-gh-postcards
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CPP Korea Mexico Postcards Project
+title: Global South Postcards
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: demo of two sided postcard objects
+tagline: Postcards from Mexico and Korea (1900-1932)
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
