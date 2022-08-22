@@ -28,4 +28,4 @@ Sample text.
 
 Interactively engage with the timeline of our Global South Postcard Collection. 
 
-`{% raw %}{% include feature/timelinejs.html %}{% endraw %}`
+{% include feature/timelinejs.html %}
