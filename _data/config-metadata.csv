@@ -1,7 +1,8 @@
 field,display_name,browse_link
 title,Title,
+creator,Creator,
 date,Date Created,
-date_created, Date Range,
+date created, Date Range,
 description,Description,
 subject,Subjects,true
 item_information,Item information
@@ -17,5 +18,6 @@ source,Source
 identifier,Source Identifier
 type,Type,
 format,Format,
+language,Language,
 rights,Rights,
-standardized_rights,Rights Statement,
+rightsstatement,Rights Statement,
