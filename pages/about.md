@@ -25,7 +25,7 @@ Mexico represented a very different legacy of colonialism. Following the conques
 
 Kent Dickson is Professor in the English and Modern Languages Department at Cal Poly Pomona.
 
-Hyeryung Hwang is Assistant Professor in the Interdisciplinary General Education Program at Cal Poly Pomona.
+Hyeryung Hwang is Assistant Professor in the Interdisciplinary General Education Program in the Department of Liberal Studies at Cal Poly Pomona.
 
 # Acknowledgements
 
